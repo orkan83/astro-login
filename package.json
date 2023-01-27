@@ -11,7 +11,13 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/svelte": "^2.0.0",
     "@astrouxds/astro-web-components": "^7.6.0",
-    "astro": "^2.0.2"
+    "astro": "^2.0.2",
+    "mongodb": "^4.13.0",
+    "svelte": "^3.55.1"
+  },
+  "devDependencies": {
+    "@astrojs/node": "^5.0.1"
   }
 }
